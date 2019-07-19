@@ -1,0 +1,63 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ged.com" resolutions="1x" timestamp="1563559089578">
+  <folder name="css">
+    <file name="site_global.css" crc="4050885443"/>
+    <file name="index.css" crc="4190693671" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="form_check.php" crc="147359589" ref="index"/>
+    <file name="form_throttle.php" crc="93986428" ref="index"/>
+    <file name="form_process.php" crc="3851993751" ref="index"/>
+    <file name="form-u1242.php" crc="3781495319" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="logo.png" crc="390758369" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2188-4-a.png" crc="3995753642" ref="index"/>
+    <file name="slide.jpg" crc="292935242" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="slide1.jpg" crc="4072892248" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="61513805_2292773000813182_4209232507456978944_o (1).jpg" crc="4235804883" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="b.jpg" crc="4225693696" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="parallax.jpg" crc="89465596" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="superlative 2.jpg" crc="117102910" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fina 1@2x-100.jpg" crc="263038489" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner temp 2-crop-u518.jpg" crc="137773694" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="superlative cover-crop-u525.jpg" crc="62304099" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="277355376" seo="true" mt="1563558954045" redirect="true"/>
+</manifest>

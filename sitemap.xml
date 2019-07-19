@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://ged.com/index.html</loc>
+    <lastmod>2019-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://ged.com/images/logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ged.com/images/slide.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ged.com/images/slide1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ged.com/images/61513805_2292773000813182_4209232507456978944_o%20(1).jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ged.com/images/b.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ged.com/images/superlative%202.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ged.com/images/fina%201@2x-100.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ged.com/images/banner%20temp%202-crop-u518.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ged.com/images/superlative%20cover-crop-u525.jpg</image:loc>
+    </image:image>
+  </url>
+</urlset>
